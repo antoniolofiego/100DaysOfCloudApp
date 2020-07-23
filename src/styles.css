@@ -13,4 +13,22 @@ html {
   background: #fcfcfc;
 }
 
+.f-32{
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.site-content {
+  flex-grow: 1;
+}
+
+
 @tailwind utilities;
