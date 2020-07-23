@@ -9,7 +9,7 @@ import {
     faDiscord,
 } from '@fortawesome/free-brands-svg-icons';
 
-export default class Header extends Component {
+export default class Footer extends Component {
     constructor(props) {
         super(props);
 
