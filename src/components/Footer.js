@@ -10,12 +10,6 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 
 export default class Footer extends Component {
-    constructor(props) {
-        super(props);
-
-        this.state = { loggedin: true };
-    }
-
     render() {
         return (
             <div className="w-full text-center p-4 pin-b mt-8 mb-8">
@@ -70,7 +64,7 @@ export default class Footer extends Component {
                 </div>
 
                 <div className="mt-4">
-                    Made with ❤️  by the #100DaysOfCloud team
+                    Made with ❤️ by the #100DaysOfCloud team
                 </div>
             </div>
         );
