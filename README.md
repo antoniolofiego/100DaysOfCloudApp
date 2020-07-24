@@ -1,3 +1,3 @@
 # #100DaysofCloud
 
-The official website for the #100DaysOfCloud community challenge.
+Project merged into https://github.com/100DaysOfCloud/100DaysOfCloudFrontend
